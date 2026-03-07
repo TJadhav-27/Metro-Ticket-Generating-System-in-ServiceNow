@@ -39,6 +39,7 @@ This project demonstrates how ServiceNow can be used to build automated service 
 7. Ticket data is stored in the **Metro Ticket Database table**
 8. A **QR code ticket is generated**
 9. The QR code can be scanned at the metro station
+10. The ticket is sent via Email to the user along with the code
 
 ---
 
@@ -52,6 +53,7 @@ This project demonstrates how ServiceNow can be used to build automated service 
 - **Custom Tables**
 - **Access Control Rules (ACLs)**
 - **QR Code API Integration**
+- **Email Delivery**
 
 ---
 
@@ -75,7 +77,6 @@ This project demonstrates how ServiceNow can be used to build automated service 
 ## 🔮 Future Enhancements
 
 - Online **Payment Gateway Integration**
-- **SMS / Email ticket delivery**
 - **Metro usage analytics dashboard**
 - **Mobile application integration**
 - Support for **multiple metro networks**
